@@ -1,0 +1,14 @@
+C:\Users\polat\source\repos\dddepo\dddepo\bin\Debug\dddepo.exe.config
+C:\Users\polat\source\repos\dddepo\dddepo\bin\Debug\dddepo.exe
+C:\Users\polat\source\repos\dddepo\dddepo\bin\Debug\dddepo.pdb
+C:\Users\polat\source\repos\dddepo\dddepo\obj\Debug\dddepo.csproj.AssemblyReference.cache
+C:\Users\polat\source\repos\dddepo\dddepo\obj\Debug\dddepo.LoginForm.resources
+C:\Users\polat\source\repos\dddepo\dddepo\obj\Debug\dddepo.MainForm.resources
+C:\Users\polat\source\repos\dddepo\dddepo\obj\Debug\dddepo.Properties.Resources.resources
+C:\Users\polat\source\repos\dddepo\dddepo\obj\Debug\dddepo.SiparislerForm.resources
+C:\Users\polat\source\repos\dddepo\dddepo\obj\Debug\dddepo.csproj.GenerateResource.cache
+C:\Users\polat\source\repos\dddepo\dddepo\obj\Debug\dddepo.csproj.CoreCompileInputs.cache
+C:\Users\polat\source\repos\dddepo\dddepo\obj\Debug\dddepo.exe
+C:\Users\polat\source\repos\dddepo\dddepo\obj\Debug\dddepo.pdb
+C:\Users\polat\source\repos\dddepo\dddepo\obj\Debug\dddepo.DepoGrafikForm.resources
+C:\Users\polat\source\repos\dddepo\dddepo\obj\Debug\dddepo.UrunlerForm.resources
